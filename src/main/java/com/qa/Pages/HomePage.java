@@ -32,6 +32,7 @@ public class HomePage extends TestBase {
 
 	}
 
+	//search input box
 	public boolean EnterText(String searchtext) {
 		txtsearchbox.sendKeys(searchtext);
 		return true;
