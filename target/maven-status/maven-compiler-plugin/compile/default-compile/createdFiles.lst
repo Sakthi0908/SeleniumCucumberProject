@@ -1,0 +1,8 @@
+com\qa\Pages\SignPage.class
+com\qa\StepDefinations\LoginSteps.class
+com\qa\Utilities\TestBase.class
+com\qa\Pages\AmazonMainPage.class
+com\qa\Pages\HomePage.class
+com\qa\StepDefinations\Hooksteps.class
+com\qa\Runner\TestRunner.class
+com\qa\Utilities\TestUtil.class
