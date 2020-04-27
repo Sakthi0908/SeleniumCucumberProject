@@ -16,7 +16,7 @@ public class AmazonMainPage extends TestBase {
 	public AmazonMainPage() {
 		PageFactory.initElements(driver, this);
 	}
-
+//clicksignmethod
 	public boolean clicksignin() {
 		Hellosignin.click();
 		return true;
