@@ -1,6 +1,6 @@
 Feature: Login Feature
 
-@Regression
+@Regression @TC_01
 Scenario:TC_01: Login to Amazon Application
 Given user is logged into amazon portal
 Then verify home page is displayed
